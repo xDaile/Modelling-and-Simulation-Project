@@ -1,2 +1,2 @@
 # Modelling-and-Simulation-Project
-Project to school
+Project for school
